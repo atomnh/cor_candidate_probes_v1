@@ -4,3 +4,8 @@ shortLabel Correlation of candidate probes
 longLabel Correlation of candidate methylome probes
 type bigWig
 
+track All_EPIC_Probes
+bigDataUrl allProbes.bb
+shortLabel all EPIC probes
+longLabel sites for all EPIC probes
+type bigBed
