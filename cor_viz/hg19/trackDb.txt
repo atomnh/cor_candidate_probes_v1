@@ -1,0 +1,6 @@
+track correlation of candidate probes
+bigDataUrl candProbes.bw
+shortLabel Correlation of candidate probes
+longLabel Correlation of candidate methylome probes
+type bigWig
+

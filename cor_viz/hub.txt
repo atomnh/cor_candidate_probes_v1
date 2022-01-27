@@ -1,0 +1,5 @@
+hub Cor_viz
+shortLabel Cor visualization
+longLabel correlation visualization of canidate methylation probes
+genomesFile genomes.txt
+email lihua.huang@link.cuhk.edu.hk
