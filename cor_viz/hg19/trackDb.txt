@@ -1,4 +1,4 @@
-track correlation of candidate probes
+track cor_candidate_probes
 bigDataUrl candProbes.bw
 shortLabel Correlation of candidate probes
 longLabel Correlation of candidate methylome probes
